@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+transformers
+faster-whisper   # only for run_asr.py
+ffmpeg           # system binary, only for loudness normalisation in run_asr.py
